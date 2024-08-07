@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Univariate/Runs/**/*.RDS
+Multivariate/Runs/**/*.RDS
+Application/Runs/**/*.RDS
+Univariate/Results/Letter/
+Univariate/Output/Letter/
+Univariate/Z1_Letter_plot.R
